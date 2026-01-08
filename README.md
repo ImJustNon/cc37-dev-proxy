@@ -21,8 +21,8 @@
 <p>1. ติดตั้ง NodeJS เเละ Git ในเครื่องก่อน (ถ้ายังไม่มี)</p>
 <p>2. ติดตั้ง pnpm ในเครื่อง (ถ้ายังไม่มี)</p>
 <p>3. Clone Repo นี้มาไว้ในเครื่อง</p>
-<pre><code>git clone https://github.com/your-repo/reverse-proxy.git
-cd reverse-proxy
+<pre><code>git clone https://github.com/ImJustNon/cc37-dev-proxy.git
+cd cc37-dev-proxy
 </code></pre>
 <p>4. รันคำสั่งติดตั้ง Dependencies</p>
 <pre><code>pnpm install
